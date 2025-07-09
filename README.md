@@ -1,9 +1,9 @@
-IBM Cognos Survey Dashboard
+IBM Data Analyst Final Project
 
-This project features an interactive dashboard built using IBM Cognos Analytics to visualize and analyze responses from a developer survey dataset. The dashboard is designed to highlight language preferences, work styles, and employment patterns among global respondents.
+This project features a PowerPoint presentation and an interactive dashboard built using IBM Cognos Analytics to visualize and analyze responses from a developer survey dataset. The dashboard is designed to highlight language and tools preferences by developers across the globe.
 
-Live Dashboard Link: (https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&id=i030D72B7EEF048099131111E8FC91375)
+Live Dashboard Link: https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&id=i030D72B7EEF048099131111E8FC91375
 
 Project Contents:
-* Power Point presentation of the analysis
+* PowerPoint presentation of the analysis
 * Visual snapshots of key panels from the dashboard
