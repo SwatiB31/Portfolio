@@ -7,3 +7,4 @@ Live Dashboard Link: https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&
 Project Contents:
 * PowerPoint presentation of the analysis
 * Visual snapshots of key panels from the dashboard
+* Jypyter labs used for preparing the dataset
